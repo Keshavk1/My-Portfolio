@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React.js**, **MongoDB**, and solving **DSA on LeetCode**.
 - 👯 I’m looking to collaborate on **real-world open-source or hackathon projects**.
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and DSA concepts**.
-- 📫 How to reach me: **keshavmeena0001@gmail.com**
+- 📫 How to reach me: **rskgm2005@gmail.com**
 - ⚡ Fun fact: I believe **consistent effort beats overnight talent**.
 
 ### 🛠️ Languages and Tools:
